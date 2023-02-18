@@ -1,4 +1,4 @@
 # my-project-
 for learning and testing git &amp; git hub
 
-##project notes 
+## project notes 
